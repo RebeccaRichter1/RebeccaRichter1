@@ -13,7 +13,7 @@ Driven by curiosity and a strong desire to create impactful solutions, I special
   
 ---
 
-### 💡 Projects:
+### 🌱 What I'm currently working on:
 - **Simplify Movie Recommendations**  
   Developing a tailored movie recommendation system focusing on reducing decision fatigue and enhancing user satisfaction by optimizing for precision@k
 
