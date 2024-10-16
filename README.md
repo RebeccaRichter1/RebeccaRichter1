@@ -22,7 +22,7 @@ Driven by curiosity and a strong desire to create impactful solutions, I special
 ### 🎓 Education:
 - **Diploma in Data Science** - BrainStation, 2024
 - **Certified Data Analyst** - BrainStation, 2024
-- **Bachelor of Business Administration** - Applied Sciences University, 2020 (Specialization: Controlling, HR)
+- **Bachelor of Business Administration** - DHBW Lörrach Applied Sciences University, 2020 
 
 ---
 
@@ -38,4 +38,4 @@ Driven by curiosity and a strong desire to create impactful solutions, I special
 ---
 
 ### ⚡ Fun Fact:
-When I'm not diving into data, I love exploring new countries, interesting dishes and immersing myself in different cultures!
+Outside of my passion for data, I'm a dedicated **judo fighter** 🥋! Whether it's on the tatami or tackling a complex project, I love a good challenge and always bring my fighting spirit to everything I do.
